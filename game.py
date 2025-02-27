@@ -3,7 +3,7 @@ from random import randint, choice
 from math import sin, cos, radians
 
 import pygame
-#from pygame import Rect, Color
+#from pygame import Rect, color
 #from pygame.sprite import Sprite
 #you already imported pygame, why import modules twice? Your code will run faster if 
 #you change Rect to pygame.Rect like I did. If this is a style preference, let me know.
